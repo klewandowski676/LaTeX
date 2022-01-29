@@ -1,1 +1,1 @@
-# LaTeX
+# Karol Lewandowski
